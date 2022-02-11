@@ -1,3 +1,3 @@
-#01.ps1 Escriu "Hello World" en PowerShell
+#01.ps1 Escriu "Hello World" e PowerShell
 
 echo "Hello World" 
