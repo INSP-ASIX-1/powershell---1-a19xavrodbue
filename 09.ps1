@@ -7,4 +7,4 @@ if ($value1 -eq $value2){
 }
 else{
     Write-Output "KO"
-}
+} 
