@@ -1,3 +1,3 @@
 #Imprimeix per pantalla el dia de l'any (dels 365) en què estem. Per tant, estarà entre 1 i 365
 
-(get-date -year 2022 -mounth 2 -day 8).dayofyear 
+Write-Output (Get-Date).DayOfYear 
